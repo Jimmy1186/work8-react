@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/work9-react/static/css/main.aedb1232.chunk.css",
-    "main.js": "/work9-react/static/js/main.27dce210.chunk.js",
-    "main.js.map": "/work9-react/static/js/main.27dce210.chunk.js.map",
-    "runtime-main.js": "/work9-react/static/js/runtime-main.70b0166f.js",
-    "runtime-main.js.map": "/work9-react/static/js/runtime-main.70b0166f.js.map",
-    "static/js/2.502b97a5.chunk.js": "/work9-react/static/js/2.502b97a5.chunk.js",
-    "static/js/2.502b97a5.chunk.js.map": "/work9-react/static/js/2.502b97a5.chunk.js.map",
-    "index.html": "/work9-react/index.html",
-    "static/css/main.aedb1232.chunk.css.map": "/work9-react/static/css/main.aedb1232.chunk.css.map",
-    "static/js/2.502b97a5.chunk.js.LICENSE.txt": "/work9-react/static/js/2.502b97a5.chunk.js.LICENSE.txt"
+    "main.css": "/work8-react/static/css/main.aedb1232.chunk.css",
+    "main.js": "/work8-react/static/js/main.27dce210.chunk.js",
+    "main.js.map": "/work8-react/static/js/main.27dce210.chunk.js.map",
+    "runtime-main.js": "/work8-react/static/js/runtime-main.24e25419.js",
+    "runtime-main.js.map": "/work8-react/static/js/runtime-main.24e25419.js.map",
+    "static/js/2.502b97a5.chunk.js": "/work8-react/static/js/2.502b97a5.chunk.js",
+    "static/js/2.502b97a5.chunk.js.map": "/work8-react/static/js/2.502b97a5.chunk.js.map",
+    "index.html": "/work8-react/index.html",
+    "static/css/main.aedb1232.chunk.css.map": "/work8-react/static/css/main.aedb1232.chunk.css.map",
+    "static/js/2.502b97a5.chunk.js.LICENSE.txt": "/work8-react/static/js/2.502b97a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70b0166f.js",
+    "static/js/runtime-main.24e25419.js",
     "static/js/2.502b97a5.chunk.js",
     "static/css/main.aedb1232.chunk.css",
     "static/js/main.27dce210.chunk.js"
